@@ -106,22 +106,22 @@ pdf-ai-mcq-qa/
 
 **MCQ Example**
 
-```bash
-Q1. What is the main function of LangChain?
-A. Text Extraction
-B. Model Evaluation
-C. Orchestrating LLM Operations
-D. Image Generation
+
+Q1. What is the main function of LangChain?\
+A. Text Extraction\
+B. Model Evaluation\
+C. Orchestrating LLM Operations\
+D. Image Generation\
 Answer: C
-```
+
 
 
 **QA Example** 
 
-```bash
+
 Question: What does this app do?  
 Answer: This application allows users to generate MCQs and ask AI-powered questions from uploaded PDF content using LLaMA 3.1 LLM and advanced document processing.
-```
+
 
 ---
 
